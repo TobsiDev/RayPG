@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/tobsi/Desktop/RPG Project/RayPG Cmake/RayPG/build",
+  "command": "/bin/c++ -I\"/home/tobsi/Desktop/RPG Project/RayPG Cmake/RayPG/src\" -g -o CMakeFiles/RayPG.dir/main.cpp.o -c \"/home/tobsi/Desktop/RPG Project/RayPG Cmake/RayPG/main.cpp\"",
+  "file": "/home/tobsi/Desktop/RPG Project/RayPG Cmake/RayPG/main.cpp"
+},
+{
+  "directory": "/home/tobsi/Desktop/RPG Project/RayPG Cmake/RayPG/build",
+  "command": "/bin/c++ -I\"/home/tobsi/Desktop/RPG Project/RayPG Cmake/RayPG/src\" -g -o src/CMakeFiles/src.dir/window.cpp.o -c \"/home/tobsi/Desktop/RPG Project/RayPG Cmake/RayPG/src/window.cpp\"",
+  "file": "/home/tobsi/Desktop/RPG Project/RayPG Cmake/RayPG/src/window.cpp"
+}
+]
